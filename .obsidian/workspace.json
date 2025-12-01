@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5bcbbe6823017df",
+    "type": "split",
+    "children": [
+      {
+        "id": "d554694ba1cd5318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2858c97a5d40f3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b12bc7743996207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf7e00c0f1ad1c79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e82b09d85954df3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb68bd5d74c7e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6318ad3377f1c83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fundamentals"
+            }
+          },
+          {
+            "id": "da1d7a1cb54a85bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fundamentals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fundamentals"
+            }
+          },
+          {
+            "id": "191fedc4f0cd321c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "28d1dc7b89b7a26d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Class Notes/Soil Carbon/Soil Carbon - 13.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Soil Carbon - 13"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md",
+    "Pedology/Minerology.md",
+    "Class Notes/Soil Carbon.md",
+    "Geomorphology/Landforms.md",
+    "Geomorphology/Bogs.md",
+    "Literature/Journal Club/Thao2024.md",
+    "Class Notes/Soil Carbon/Soil Carbon - 13.md",
+    "Class Notes/Soil Carbon/Soil Carbon - 5.md",
+    "Class Notes/Soil Carbon/Soil Carbon - 11.md",
+    "Class Notes/Soil Carbon/Soil Carbon - 7.md",
+    "Class Notes/Soil Carbon/Soil Carbon - 10.md",
+    "Class Notes/Soil Carbon/Soil Carbon - Exam 2 Prep.md",
+    "Class Notes/Soil Carbon/Soil Carbon - November 7 (Week 11).md",
+    "Class Notes/Soil Carbon/Soil Carbon - September 26 (Week 5).md",
+    "November 17, 2025.md",
+    "Meeting Notes/Lab Meetings.md",
+    "Class Notes/Soil Carbon/Soil Carbon - October 10 (Week 7).md",
+    "Soil Carbon - October.md",
+    "Class Notes/Soil Carbon/Soil Carbon - October 31 (Week 10).md",
+    "Biogeochemistry.md",
+    "Meeting Notes/Lab Meetings/3 November, 2025.md",
+    "Meeting Notes/Lab Meetings",
+    "Pedology/Classification/Oxisols.md",
+    "Pedology/Minerology/Redox.md",
+    "Pedology/Classification/Spodic Horizon.md",
+    "Pedology/Classification",
+    "Class Notes/Soil Carbon",
+    "Pedology/Minerology/Carbonate & Gypsum.md",
+    "Pedology/Minerology/Oxides & Silicates.md",
+    "Pedology/Minerology",
+    "Class Notes",
+    "Meeting Notes",
+    "Literature/Dissertation",
+    "Literature/Journal Club",
+    "Literature",
+    "Geomorphology"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
+  "textFontFamily": "0xProto Nerd Font Propo",
+  "monospaceFontFamily": "0xProto Nerd Font Mono",
+  "baseFontSize": 14
+}
