@@ -10,3 +10,11 @@
 
 **Challenges**
 + So much class work
+
+# Notes
+**Sampling**
++ Truck Vehicle Number: **320A**
++ Gas code is **FIRST SIX** of NUID
++ ~={red}**Bring sewing pins from home**=~
++ Print out descriptions
+
