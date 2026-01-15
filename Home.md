@@ -18,7 +18,7 @@ cssclasses:
 	- [[Personal Meetings]]
 - ## Class Notes
 	- [[Biogeochemistry]]
-	- [[Soil Carbon]]
+	- [[Soil Carbon 1]]
 	- [[Previous Classes]]
 - ## Literature
 	- [[Journal Club]]

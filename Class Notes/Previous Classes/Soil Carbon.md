@@ -1,8 +1,8 @@
 # Unit 2 - SOC Fractions
-- [[Soil Carbon - 5]]
-- [[Soil Carbon - 7]]
-- [[Soil Carbon - 10]]
-- [[Soil Carbon - 11]]
-- [[Soil Carbon - Exam 2 Prep]]
-- [[Soil Carbon - 13]]
+- [[Class Notes/Previous Classes/Soil Carbon/Soil Carbon - 5]]
+- [[Class Notes/Previous Classes/Soil Carbon/Soil Carbon - 7]]
+- [[Class Notes/Previous Classes/Soil Carbon/Soil Carbon - 10]]
+- [[Class Notes/Previous Classes/Soil Carbon/Soil Carbon - 11]]
+- [[Class Notes/Previous Classes/Soil Carbon/Soil Carbon - Exam 2 Prep]]
+- [[Class Notes/Previous Classes/Soil Carbon/Soil Carbon - 13]]
 - 
