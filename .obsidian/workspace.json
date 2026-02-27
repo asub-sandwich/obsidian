@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d24662be739b65b7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/Personal Meetings/2026 1 27.md",
+                "file": "Meeting Notes/Lab Meetings/2026 2 27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026 1 27"
+              "title": "2026 2 27"
             }
           }
         ]
@@ -171,16 +171,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "d24662be739b65b7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "Meeting Notes/Lab Meetings/2026 2 27.md",
+    "Meeting Notes/Lab Meetings/2026 2 20.md",
+    "Meeting Notes/Lab Meetings/2025 11 17.md",
+    "Class Notes/Soil Chemistry/Soil Chemistry - 1.md",
+    "Meeting Notes/Lab Meetings/2026 2 13.md",
+    "Meeting Notes/Lab Meetings/2026 2 6.md",
+    "Meeting Notes/Personal Meetings/2026 1 27.md",
     "Meeting Notes/Personal Meetings.md",
     "Meeting Notes/Lab Meetings.md",
-    "Meeting Notes/Personal Meetings/2026 1 27.md",
     "Meeting Notes/Lab Meetings/2026 1 23.md",
     "Meeting Notes/Lab Meetings/2026 1 16.md",
-    "Home.md",
     "Meeting Notes/Personal Meetings/2025 12 18.md",
-    "Class Notes/Soil Chemistry/Soil Chemistry - 1.md",
     "Class Notes/Soil Chemistry.md",
     "Class Notes/Previous Classes.md",
     "Soil Carbon 1.md",
@@ -195,12 +200,7 @@
     "Meeting Notes/Lab Meetings/2025 12 15.md",
     "Meeting Notes/Lab Meetings/2025 12 1.md",
     "Meeting Notes/Lab Meetings/2025 11 3.md",
-    "Meeting Notes/Lab Meetings/2025 11 17.md",
-    "Class Notes/Previous Classes/Soil Carbon 1/Soil Carbon - 14.md",
     "Meeting Notes/Project Meetings",
-    "Pedology/Minerology.md",
-    "Geomorphology/Landforms.md",
-    "Geomorphology/Bogs.md",
     "Meeting Notes/Lab Meetings",
     "Pedology/Classification",
     "Class Notes/Previous Classes/Soil Carbon 1",
