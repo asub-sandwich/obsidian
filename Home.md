@@ -28,3 +28,4 @@ cssclasses:
 # Quotes
 - ## Soils
 	- "Soil is the epidermis of landforms, and a study of one is a study of the other" (Don Johnson, 2000)
+	- "Our native soil claimed us all from the start; gave us our landscape and captured our heart." (Francis D. Hole, 1989)
