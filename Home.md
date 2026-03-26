@@ -2,7 +2,6 @@
 cssclasses:
   - dashboard
 ---
-
 # Reference Base
 - ## Pedology
 	- [[Classification]]
@@ -17,8 +16,7 @@ cssclasses:
 	- [[Project Meetings]]
 	- [[Personal Meetings]]
 - ## Class Notes
-	- [[Biogeochemistry]]
-	- [[Soil Carbon 1]]
+	- [[Soil Chemistry]]
 	- [[Previous Classes]]
 - ## Literature
 	- [[Journal Club]]
