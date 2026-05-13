@@ -1,9 +1,11 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "dashboard"
   ],
   "textFontFamily": "0xProto Nerd Font Propo",
   "monospaceFontFamily": "0xProto Nerd Font Mono",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "accentColor": "#a27ef6"
 }

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,8 +173,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Class Notes/Soil Chemistry.md",
     "Home.md",
+    "Class Notes/Soil Chemistry.md",
     "Class Notes/Previous Classes.md",
     "Soil Carbon 1.md",
     "Meeting Notes/Personal Meetings.md",
